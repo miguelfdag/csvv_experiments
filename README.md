@@ -25,7 +25,7 @@ Using a Random Forest Classifier, we obtain an 88% balanced accuracy in test (wi
 After trying other models, including Neural Networks and linear models, the result of the Random Forest was still the one on top.
 
 The feature relevances for the Random Forest are:
-![Scope Feature Relevance](images/feature_relevances.png)
+![Scope Feature Relevance](images/scope_relevances.png)
 
 The generated metric predictions are stored in the `results/scope_results_rf.csv` file.
 
